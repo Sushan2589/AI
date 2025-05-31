@@ -8,6 +8,8 @@ This space will soon feature prototypes such as:
 - Resume and job match analyzer
 - Chat with your documents / website
 
+Do check out https://sushandahal.tech/
+
 Sushan Dahal
 
 
